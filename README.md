@@ -16,9 +16,14 @@ We propose a machine learning approach to learn internal variables and the evolu
 Please cite us if you find our work useful for your research:
 
 ```bibtex
-@article{qiu2025bridging,
-  title={Bridging statistical mechanics and thermodynamics away from equilibrium: a data-driven approach for learning internal variables and their dynamics},
-  author={Qiu, Weilun and Huang, Shenglin and Reina, Celia},
-  journal={arXiv preprint arXiv:2501.17993},
-  year={2025}
+@article{QIU2025106211,
+title = {Bridging statistical mechanics and thermodynamics away from equilibrium: A data-driven approach for learning internal variables and their dynamics},
+journal = {Journal of the Mechanics and Physics of Solids},
+volume = {203},
+pages = {106211},
+year = {2025},
+issn = {0022-5096},
+doi = {https://doi.org/10.1016/j.jmps.2025.106211},
+url = {https://www.sciencedirect.com/science/article/pii/S0022509625001875},
+author = {Weilun Qiu and Shenglin Huang and Celia Reina}
 }
